@@ -1,0 +1,13 @@
+.MainPageAlarm {
+    background: wheat;
+    padding-top: 20px;
+    padding-bottom: 220px;
+}
+
+.couponalarm-header{
+    font-weight: bolder;
+    font-size: 24px;
+    margin-left: 32px;
+    font-family: 'SpoqaHanSansNeo-Bold';
+    /* margin-top: 32px; */
+}

@@ -1,0 +1,25 @@
+.MainPageHeader {
+    padding: 25px;
+    background: white;
+    display: flex;
+    font-family: 'Jeju Gothic', sans-serif;
+}
+
+.logo {
+    margin-right: 450px;
+    color: #f08c00;
+    font-weight: bold;
+    font-family: 'SpoqaHanSansNeo-Bold';
+}
+
+.header-menu{
+    margin-right: 100px;
+    color: #f59f00;
+    font-family: 'SpoqaHanSansNeo-Bold';
+}
+
+.header-menu:hover {
+    color: #868e96;
+}
+
+
