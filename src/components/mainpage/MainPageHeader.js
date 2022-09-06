@@ -7,8 +7,10 @@ class MainPageHeader extends Component {
         return (
             <div className='MainPageHeader'>
                 <div className='logo'>바스쿱 ; 바스켓에 모여진 쿠폰</div>
-                <div className='header-menu'>쿠폰 등록</div>
-                <div className='header-menu'>쿠폰 조회</div>
+                <div className='menu-wrapper'>
+                    <div className='memu-item'>쿠폰 등록</div>
+                    <div className='memu-item'>쿠폰 조회</div>
+                </div>
             </div>
         );
     }

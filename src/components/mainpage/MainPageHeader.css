@@ -6,19 +6,24 @@
 }
 
 .logo {
-    margin-right: 450px;
     color: #f08c00;
     font-weight: bold;
     font-family: 'SpoqaHanSansNeo-Bold';
 }
 
-.header-menu{
+.menu-wrapper{
+    justify-content: center;
+    display: flex;
+    flex: 1;
+}
+
+.memu-item {
+    color: #ff922b;
     margin-right: 100px;
-    color: #f59f00;
     font-family: 'SpoqaHanSansNeo-Bold';
 }
 
-.header-menu:hover {
+.memu-item:hover {
     color: #868e96;
 }
 
