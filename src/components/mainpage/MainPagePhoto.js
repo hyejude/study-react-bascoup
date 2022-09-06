@@ -5,7 +5,10 @@ class MainPagePhoto extends Component {
     render() {
         return (
             <div className='MainPagePhoto'>
-                중앙
+                <div className='coupon-search'>
+                    <input className='coupon-input' placeholder=' 브랜드나 상품명을 검색해보세요.' />
+                    <button className='input-button'>검색</button>
+                </div>
             </div>
         );
     }

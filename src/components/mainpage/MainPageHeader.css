@@ -25,6 +25,7 @@
 
 .memu-item:hover {
     color: #868e96;
+    cursor: pointer;
 }
 
 

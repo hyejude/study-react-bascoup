@@ -9,8 +9,13 @@ class MainPageAlarm extends Component {
         return (
             <div className='MainPageAlarm'>
                 <div className='couponalarm-header'>임박한 기프티콘 😰</div>
-                <CouponItem />
-                <CouponItem />
+                <div className='coupons-wrapper'>
+                    <CouponItem />
+                    <CouponItem />
+                    <CouponItem />
+                    <CouponItem />
+                    <CouponItem />
+                </div>
             </div>
         );
     }
